@@ -1,0 +1,6 @@
+c:\users\amidja\documents\visual studio 2017\Projects\ConsoleAppsAssig2\ConsoleAppsAssig2\bin\Debug\ConsoleAppsAssig2.exe.config
+c:\users\amidja\documents\visual studio 2017\Projects\ConsoleAppsAssig2\ConsoleAppsAssig2\bin\Debug\ConsoleAppsAssig2.exe
+c:\users\amidja\documents\visual studio 2017\Projects\ConsoleAppsAssig2\ConsoleAppsAssig2\bin\Debug\ConsoleAppsAssig2.pdb
+c:\users\amidja\documents\visual studio 2017\Projects\ConsoleAppsAssig2\ConsoleAppsAssig2\obj\Debug\Assig2Task1.csprojResolveAssemblyReference.cache
+c:\users\amidja\documents\visual studio 2017\Projects\ConsoleAppsAssig2\ConsoleAppsAssig2\obj\Debug\ConsoleAppsAssig2.exe
+c:\users\amidja\documents\visual studio 2017\Projects\ConsoleAppsAssig2\ConsoleAppsAssig2\obj\Debug\ConsoleAppsAssig2.pdb
