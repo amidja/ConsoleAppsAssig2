@@ -7,3 +7,4 @@
 # And any grandchildren ...
 /*/*/obj/
 /*/*/bin/
+.vs/**
