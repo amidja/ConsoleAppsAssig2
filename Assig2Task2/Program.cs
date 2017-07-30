@@ -10,6 +10,8 @@ namespace Assig2Task2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Task 2");
+
         }
     }
 }
