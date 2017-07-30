@@ -1,0 +1,9 @@
+# Ignore obj and bin folders at the top level
+/obj/
+/obj/
+# Ignore child project's targets as well
+/*/obj/
+/*/bin/
+# And any grandchildren ...
+/*/*/obj/
+/*/*/bin/
