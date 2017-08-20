@@ -1,6 +1,7 @@
 # Ignore obj and bin folders at the top level
 /obj/
 /obj/
+.vs/
 # Ignore child project's targets as well
 /*/obj/
 /*/bin/

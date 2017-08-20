@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assig2Task1", "ConsoleAppsAssig2\Assig2Task1.csproj", "{6E3A96CC-D138-4073-8E54-263629082CEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assig2Task1", "Assig2Task1\Assig2Task1.csproj", "{6E3A96CC-D138-4073-8E54-263629082CEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assig2Task2", "Assig2Task2\Assig2Task2.csproj", "{AE971103-EED4-47F9-AB5F-B5B439046EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assig2Task3", "Assig2Task3\Assig2Task3.csproj", "{5C15A71A-8339-467E-B0C3-6A439F3F7218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AE971103-EED4-47F9-AB5F-B5B439046EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE971103-EED4-47F9-AB5F-B5B439046EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE971103-EED4-47F9-AB5F-B5B439046EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C15A71A-8339-467E-B0C3-6A439F3F7218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C15A71A-8339-467E-B0C3-6A439F3F7218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C15A71A-8339-467E-B0C3-6A439F3F7218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C15A71A-8339-467E-B0C3-6A439F3F7218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
